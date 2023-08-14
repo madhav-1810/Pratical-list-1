@@ -5,7 +5,11 @@ int main()
 {
 	float years,rate;
 	int principle;
-	
+
+	cout<<"I am Madhav Vasani "<<endl;
+	cout<<"En_no    220130318118 "<<endl;
+	cout<<"---------------------"<<endl;
+
 	cout<<"Enter the principle amount :: ";
 	cin>>principle;
 	
